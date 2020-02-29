@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
  element = "jamie"
   array = ["jessica", "jennifer"]
-  array << #{element} 
+  array << element 
   
 end
 
