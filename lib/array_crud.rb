@@ -58,6 +58,6 @@ def update_element_from_index(array, index_number, element)
   
      array = ["wow", "I", "am", "really", "learning", "arrays!"]
    index_number = 2
-   array[index_number]
+   array[index_number] = "not"
 
 end
